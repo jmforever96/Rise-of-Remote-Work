@@ -1,4 +1,3 @@
-[readme.md](https://github.com/user-attachments/files/23894695/readme.md)
 # Impacts on the Rise of Remote Work in the United States
 
 ## **Table of Contents**
